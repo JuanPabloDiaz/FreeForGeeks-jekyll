@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="author" content="Juan Diaz" />
+    <meta name="date" content="2023" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Confidential Email</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main id="email">
+      <div id="confidential">Confidential</div>
+      <div id="top-secret">Top Secret</div>
+      <p>
+        This is a <span class="blurred">confidential</span> message. It contains
+        <span class="blurred">sensitive</span> information.
+      </p>
+      <p>
+        Please handle this <span class="blurred">document</span> with care.
+        Unauthorized access is <span class="blurred">prohibited</span>.
+      </p>
+      <p>
+        This information is for your eyes only. Do not share it with anyone.
+      </p>
+    </main>
+    <footer class="footer">
+      <p>
+        ©
+        <script>
+          const startYear = 2023;
+          const currentYear = new Date().getFullYear();
+          const yearText =
+            startYear === currentYear
+              ? startYear
+              : `${startYear} - ${currentYear}`;
+          document.write(yearText);
+        </script>
+      </p>
+      <span class="dot">•</span>
+      <a class="footer-link" href="https://linkedin.com/in/1diazdev">
+        Linkedin </a
+      ><span class="dot">•</span>
+      <a class="footer-link" href="https://jpdiaz.dev"> Juan Diaz</a>
+    </footer>
+  </body>
+</html>
