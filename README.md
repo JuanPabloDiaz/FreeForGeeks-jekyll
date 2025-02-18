@@ -55,7 +55,9 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 - [Polygon Area Calculator](./ScientificComputingwithPython/PolygonAreaCalculator)
 - [Probability Calculator](./ScientificComputingWithPython/ProbabilityCalculator)
 
-### JavaScript Algorithms and Data Structures [![Certified](https://img.shields.io/badge/freeCodeCamp_Certified_in_2025-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white)]()
+### [JavaScript Algorithms and Data Structures](./JavaScriptAlgorithmsAndDataStructures/)
+
+[![Certified](https://img.shields.io/badge/freeCodeCamp_Certified_in_2025-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white)]()
 
 - [Build a Palindrome Checker](./JavaScriptAlgorithmsAndDataStructures/PalindromeChecker)
 - [Build a Roman Numeral Converter](./JavaScriptAlgorithmsAndDataStructures/RomanNumeralConverter)
@@ -63,7 +65,7 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 - [Build a Cash Register](./JavaScriptAlgorithmsAndDataStructures/CashRegister)
 - [Build a Pokémon Search App](./JavaScriptAlgorithmsAndDataStructures/PokemonSearchApp)
 
-### Legacy JavaScript Algorithms and Data Structures
+### [Legacy JavaScript Algorithms and Data Structures](./LegacyJavaScriptAlgorithmsAndDataStructures/)
 
 [![Certified](https://img.shields.io/badge/freeCodeCamp_Certified_in_2025-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white)]()
 
