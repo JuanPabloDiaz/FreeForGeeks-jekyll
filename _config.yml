@@ -3,7 +3,7 @@
 title: Full Stack Developer FCC | Juan Diaz
 author: Juan Pablo Diaz
 email: contact@jpdiaz.dev
-site: https://jpdiaz.dev
+url: https://jpdiaz.dev
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -21,14 +21,21 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   # - jekyll-avatar
+  # - jekyll-redirect-from
+  # - jekyll-paginate
+  # - tag-page-generator
+  # - jekyll-minifier
+  # - jekyll-remote-include
+  # - faraday-retry
 
 # Theme-specific settings
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - FullStackDeveloper/Css/README.md
   - FullStackDeveloper/Html/README.md
+  - FullStackDeveloper/Css/README.md
+  - FullStackDeveloper/Js/README.md
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
@@ -40,7 +47,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: dark
 
   # Set to `true` to show excerpts on the homepage.
   #show_excerpts: false
@@ -50,28 +57,8 @@ minima:
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #date_format: "%b-%d-%Y"
 
-  # Social Media Links
-  # Renders icons via Font Awesome Free webfonts CDN, based on ordered list of entries.
-  #
-  # Entry keys:
-  # * title    Tooltip rendered on hovering over icon.
-  # * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
-  # * url      Full URL of social profile.
-  # #social_links:
-  #  - title: Minima Theme repository at GitHub
-  #    icon: github
-  #    url: "https://github.com/jekyll/minima"
-  #  - title: Jekyll at X (formerly Twitter)
-  #    icon: x-twitter
-  #    url: "https://x.com/JuanDiaz_427"
   # social links
-  # twitter_username: JuanDiaz_427
-  # github_username: juanPabloDiaz
-  # linkedin_username: 1diazdev
+  twitter_username: JuanDiaz_427
+  github_username: juanPabloDiaz
+  linkedin_username: 1diazdev
   # youtube_username: jekyll
-
-  # generate social links in footer
-  social_links:
-    twitter: 1diazdev
-    github: 1diazdev
-    telegram: 1diazdev
