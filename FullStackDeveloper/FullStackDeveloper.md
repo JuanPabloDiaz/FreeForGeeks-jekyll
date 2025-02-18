@@ -9,7 +9,7 @@ Covers all the essential technologies required to build modern, scalable web app
 
 I completed for the freeCodeCamp Full Stack Developer certification.
 
-## [HTML](./Html/)
+### [HTML](./Html/)
 
 HTML projects.
 
