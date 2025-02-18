@@ -17,16 +17,16 @@ description: >
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-avatar
-  # - jekyll-redirect-from
-  # - jekyll-paginate
-  # - tag-page-generator
-  # - jekyll-minifier
-  # - jekyll-remote-include
-  # - faraday-retry
+# plugins:
+# - jekyll-feed
+# - jekyll-seo-tag
+# - jekyll-avatar
+# - jekyll-redirect-from
+# - jekyll-paginate
+# - tag-page-generator
+# - jekyll-minifier
+# - jekyll-remote-include
+# - faraday-retry
 
 # Theme-specific settings
 
