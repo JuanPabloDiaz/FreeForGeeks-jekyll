@@ -34,9 +34,11 @@ plugins:
 # in order as they should show up.
 header_pages:
   - FullStackDeveloper/FullStackDeveloper.md
-  - FullStackDeveloper/Html/README.md
-  - FullStackDeveloper/Css/README.md
-  - FullStackDeveloper/Js/README.md
+  - LegacyJavaScriptAlgorithmsAndDataStructures/JsAlgorithmsAndData.md
+
+  # - FullStackDeveloper/Html/README.md
+  # - FullStackDeveloper/Css/README.md
+  # - FullStackDeveloper/Js/README.md
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
