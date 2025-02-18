@@ -125,5 +125,4 @@ This repository contains all the projects completed to earn freeCodeCamp certifi
 - [Build a Personal Portfolio Webpage](https://github.com/JuanPabloDiaz/jpdiaz) ⚡ [Demo](https://jpdiaz.dev)
 
 <p align="right">(<a href="#top">👆 Top 👆</a>)</p>
-<a href="#" onclick="scrollToTop(); return false;">Back to Top</a>
-<a href="#top" onclick="scrollToTop(); return false;">Back to Top ⬆</a>
+<p align="right"><a href="#" onclick="scrollToTop(); return false;">Back to Top</a></p>
