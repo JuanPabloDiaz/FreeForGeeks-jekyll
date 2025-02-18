@@ -1,9 +1,8 @@
 # Reference-project: https://github.com/NorthernBUG/northernbug.github.io
 
 title: Full Stack Developer FCC | Juan Diaz
-author:
-  name: JuanPabloDiaz
-  email: contact@jpdiaz.dev
+author: Juan Pablo Diaz
+email: contact@jpdiaz.dev
 site: https://jpdiaz.dev
 
 # The `>` after `description:` means to ignore line-breaks until next key.
@@ -65,8 +64,14 @@ minima:
   #  - title: Jekyll at X (formerly Twitter)
   #    icon: x-twitter
   #    url: "https://x.com/JuanDiaz_427"
-# social links
-twitter_username: JuanDiaz_427
-github_username: juanPabloDiaz
-linkedin_username: 1diazdev
-youtube_username: jekyll
+  # social links
+  # twitter_username: JuanDiaz_427
+  # github_username: juanPabloDiaz
+  # linkedin_username: 1diazdev
+  # youtube_username: jekyll
+
+  # generate social links in footer
+  social_links:
+    twitter: 1diazdev
+    github: 1diazdev
+    telegram: 1diazdev
