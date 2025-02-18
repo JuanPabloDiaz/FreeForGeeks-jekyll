@@ -12,4 +12,4 @@ A collection of JavaScript projects completed to earn the freeCodeCamp **JavaScr
 - [Build a Cash Register](../JavaScriptAlgorithmsAndDataStructures/CashRegister)
 - [Build a Pokémon Search App](../JavaScriptAlgorithmsAndDataStructures/PokemonSearchApp)
 - [Build a Caesars Cipher](../LegacyJavaScriptAlgorithmsAndDataStructures/CaesarsCipher/)
-  - [Script](LegacyJavaScriptAlgorithmsAndDataStructures/CaesarsCipher/script.js)
+  - [Script](../LegacyJavaScriptAlgorithmsAndDataStructures/CaesarsCipher/script.js)
