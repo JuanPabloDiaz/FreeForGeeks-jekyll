@@ -18,22 +18,14 @@ layout: page
     line-height: 1;
     letter-spacing: -1px;
   }
-  .go-back-home {
-    text-decoration: none;
-    color: #fff;
-    background-color: #000;
-    padding: 10px 20px;
-    border-radius: 5px;
-    font-size: 1.2em;
-  }
 </style>
 
 <div class="not-found">
   <h1>404</h1>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <p><strong>Page not found</strong></p>
   <h4>
-    <a class="go-ba ck-home" href="{{ site.baseurl }}/">Return to home</a>
+    <a href="{{ site.baseurl }}/">Back home</a>
   </h4>
+  <a href="#" onclick="history.back(); return false;">Back to Previous Page</a>
 </div>
