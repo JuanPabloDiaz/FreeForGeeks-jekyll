@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CSS
-# permalink: /Css/
+permalink: /Css/
 ---
 
 Here is a list of all the projects completed for the CSS section of the Full Stack Developer certification. Each project is linked to its respective folder containing the source code and any additional files.

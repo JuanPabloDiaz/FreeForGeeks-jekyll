@@ -58,7 +58,12 @@ minima:
   #date_format: "%b-%d-%Y"
 
   # social links
-  twitter_username: JuanDiaz_427
-  github_username: juanPabloDiaz
-  linkedin_username: 1diazdev
+  # twitter_username: JuanDiaz_427
+  # github_username: juanPabloDiaz
+  # linkedin_username: 1diazdev
   # youtube_username: jekyll
+
+  # generate social links in footer
+  social_links:
+    github: juanPabloDiaz
+    linkedin: 1diazdev
