@@ -1,6 +1,6 @@
 # Reference-project: https://github.com/NorthernBUG/northernbug.github.io
 
-title: Full Stack Developer FCC | Juan Diaz
+title: FreeCodeCamp Certification Projects | Juan Diaz
 author: Juan Pablo Diaz
 email: contact@jpdiaz.dev
 url: https://jpdiaz.dev
@@ -58,12 +58,12 @@ minima:
   #date_format: "%b-%d-%Y"
 
   # social links
-  # twitter_username: JuanDiaz_427
-  # github_username: juanPabloDiaz
-  # linkedin_username: 1diazdev
-  # youtube_username: jekyll
+twitter_username: JuanDiaz_427
+github_username: juanPabloDiaz
+linkedin_username: 1diazdev
+# youtube_username: jekyll
 
-  # generate social links in footer
-  social_links:
-    github: juanPabloDiaz
-    linkedin: 1diazdev
+# generate social links in footer
+# social_links:
+#   github: juanPabloDiaz
+#   linkedin: 1diazdev
