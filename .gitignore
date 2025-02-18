@@ -1,0 +1,16 @@
+/github-stars/.vercel
+/github-stars/.env
+
+/api/.vercel
+/api/.env
+
+# Run lighthouse CI: npx unlighthouse --site https://freeforgeeks.com/
+/.unlighthouse/
+
+# jenkyll:
+
+_site
+.sass-cache
+Gemfile.lock
+*.gem
+.jekyll-cache

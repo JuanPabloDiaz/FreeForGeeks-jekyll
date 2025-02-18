@@ -1,0 +1,31 @@
+<!-- This is a list of URLs that Lychee should ignore. -->
+<!-- False Positive URL -->
+
+https://www.npmjs.com/package/readme-md-generator
+https://www.openstreetmap.org/#map=4/38.01/-95.84
+https://github.com/JuanPabloDiaz/freeForGeeks
+https://www.linkedin.com/in/1diazdev
+https://www.reddit.com/r/programming
+https://www.openwebanalytics.com
+https://world.openfoodfacts.org
+https://reddit.com/r/FreeEBOOKS
+https://www.cloudflare.com/dns
+https://www.careerbuilder.com
+https://recharts.org/en-US
+https://www.highcharts.com
+https://www.wireguard.com
+https://www.igdb.com/api
+https://chat.openai.com
+https://www.tableau.com
+https://www.zenrows.com
+https://www.ncworks.gov
+https://www.tabnine.com
+https://www.indeed.com
+http://localhost:3000
+https://perplexity.ai
+https://www.canva.com
+https://leetcode.com
+https://tiledesk.com
+https://snowplow.io
+https://openai.com
+https://phind.com
