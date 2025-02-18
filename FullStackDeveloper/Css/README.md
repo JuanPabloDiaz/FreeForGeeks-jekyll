@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Css Projects
+title: CSS
 # permalink: /Css/
 ---
 
