@@ -1,21 +1,15 @@
+# Reference-project: https://github.com/NorthernBUG/northernbug.github.io
 title: Testing Jekyll Theme
 description: A test site for Jekyll theme
 author: Juan Pablo Diaz
-# email: your-email@domain.com
+email: contact@jpdiaz.dev
+website: https://jpdiaz.dev
 
 # social links
 twitter_username: JuanDiaz_427
 github_username: juanPabloDiaz
-# rss: rss
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
 linkedin_username: 1diazdev
-# pinterest_username: jekyll
 # youtube_username: jekyll
-# googleplus_username: +jekyll
-# googlegroups_username:
 
 google_analytics:
 
@@ -29,10 +23,7 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-  - about.md
-  - contact.md
-  - meetings.md
-  - FullStackDeveloper/Css
+  - FullStackDeveloper/Css/README.md
   - FullStackDeveloper/Html/README.md
 
 # Build settings
