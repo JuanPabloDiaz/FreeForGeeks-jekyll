@@ -33,6 +33,7 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
+  - FullStackDeveloper/FullStackDeveloper.md
   - FullStackDeveloper/Html/README.md
   - FullStackDeveloper/Css/README.md
   - FullStackDeveloper/Js/README.md
