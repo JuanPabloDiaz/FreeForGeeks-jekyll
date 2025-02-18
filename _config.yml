@@ -55,20 +55,18 @@ minima:
   # Renders icons via Font Awesome Free webfonts CDN, based on ordered list of entries.
   #
   # Entry keys:
-  * title    Tooltip rendered on hovering over icon.
-  * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
-  * url      Full URL of social profile.
-  #social_links:
-   - title: Minima Theme repository at GitHub
-     icon: github
-     url: "https://github.com/jekyll/minima"
-   - title: Jekyll at X (formerly Twitter)
-     icon: x-twitter
-     url: "https://x.com/JuanDiaz_427"
-
-
+  # * title    Tooltip rendered on hovering over icon.
+  # * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
+  # * url      Full URL of social profile.
+  # #social_links:
+  #  - title: Minima Theme repository at GitHub
+  #    icon: github
+  #    url: "https://github.com/jekyll/minima"
+  #  - title: Jekyll at X (formerly Twitter)
+  #    icon: x-twitter
+  #    url: "https://x.com/JuanDiaz_427"
 # social links
-# twitter_username: JuanDiaz_427
-# github_username: juanPabloDiaz
-# linkedin_username: 1diazdev
-# youtube_username: jekyll
+twitter_username: JuanDiaz_427
+github_username: juanPabloDiaz
+linkedin_username: 1diazdev
+youtube_username: jekyll
